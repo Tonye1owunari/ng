@@ -426,11 +426,11 @@ p.cpr{text-align: center; font-size: 11px;}
         padding: 5px;
     }
     h1#hello{
-        font-size: 18px;
+        font-size: 19px;
         left: 15%;
     }
     span.title{
-        font-size: 10px;
+        font-size: 12px;
     }
     a#contactbtn{
         padding: 6px;
@@ -516,10 +516,10 @@ p.cpr{text-align: center; font-size: 11px;}
         border-radius: 0;
     }
     div#contact{
-        font-size: 9.5px;
+        font-size: 11px;
     }
     div#downloadbtn{width: 100px;}
-    div#downloadbtn a{font-size: 10px;}
+    div#downloadbtn a{font-size: 11px;}
     div.social a{font-size: 18px;}
     p.cpr{font-size: 11px;}
 }
